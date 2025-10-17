@@ -1,0 +1,32 @@
+Geometric Shape Classification Results
+==================================================
+Overall Accuracy: 0.5100
+Average Processing Time: 0.0055 seconds
+Total Images Processed: 400
+
+Class-wise Performance:
+Rectangle:
+  Precision: 0.4050
+  Recall: 0.4900
+  F1-Score: 0.4434
+
+Triangle:
+  Precision: 0.5342
+  Recall: 0.3900
+  F1-Score: 0.4509
+
+Ellipse:
+  Precision: 0.5115
+  Recall: 0.6700
+  F1-Score: 0.5801
+
+Other:
+  Precision: 0.6533
+  Recall: 0.4900
+  F1-Score: 0.5600
+
+Complexity Analysis:
+Size 50x50: 0.0039s average processing time
+Size 100x100: 0.0005s average processing time
+Size 150x150: 0.0007s average processing time
+Size 200x200: 0.0007s average processing time
